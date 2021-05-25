@@ -10,9 +10,8 @@
 - 💬 Ask me about Spring Boot, Angular and React also.
 - ⚡ Fun fact: I love to play game and watching movies.
 
-### Connect with me:
-
-
+<!-- ### Connect with me:
+ -->
 ![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-than-soe&show_icons=true&theme=radical)
 
 <!-- **aung-than-soe/aung-than-soe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
