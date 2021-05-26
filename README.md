@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning react, also willing to learn more.
 - 🤔 I’m looking for help with job apportunity as a remote developer.
 - 💬 Ask me about Spring Boot, Angular and React also.
-- ⚡ Fun fact: I love to play game and watching movies.
+- ⚡ Fun fact: I love to play games and watching movies.
 
 <!-- ### Connect with me:
  -->
