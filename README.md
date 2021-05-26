@@ -27,11 +27,11 @@
 <a href="https://www.linkedin.com/aung-than-soe-3107381a3/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=radical&layout=compact)
+![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&exclude_repo=github-readme-stats,aung-than-soe.github.io)
 
 <br/>
 
-![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-than-soe&show_icons=true&theme=radical)
+![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-than-soe&show_icons=true&theme=dracula)
 
 <!-- **aung-than-soe/aung-than-soe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
