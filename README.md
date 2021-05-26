@@ -1,4 +1,6 @@
-### Hello, I'm Aung Than Soe, a software developer from Myanmar 🤠
+ <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Aung Than Soe, a software developer from Myanmar
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=aung-than-soe&label=Profile%20views&color=0e75b6&style=flat" alt="aung-than-soe" />
