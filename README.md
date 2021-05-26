@@ -4,7 +4,7 @@
  <img src="https://komarev.com/ghpvc/?username=aung-than-soe&label=Profile%20views&color=0e75b6&style=flat" alt="aung-than-soe" />
 </p>
 
-- 🔭 I’m currently working on private softwares as a Java Web Developer(especially Spring framework, Angular v10+
+- 🔭 I’m currently working on private softwares as a Java Web Developer(especially Spring framework, Angular v10+)
 - 🌱 I’m currently learning react, also willing to learn more.
 - 🤔 I’m looking for help with job apportunity as a remote developer.
 - 💬 Ask me about Spring Boot, Angular and React also.
