@@ -3,7 +3,9 @@
 
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=aung-than-soe&label=Profile%20views&color=0e75b6&style=flat" alt="aung-than-soe" />
+ <img src="https://komarev.com/ghpvc/?username=aung-than-soe&label=Profile%20views&color=0e75b6&style=flat" alt="aung-than-soe"/>
+ 
+ [![Github](https://img.shields.io/github/followers/aung-than-soe?label=Follow&style=social)](https://github.com/aung-than-soe)
 </p>
 
 - 🔭 I’m currently working on private softwares as a Java Web Developer(especially Spring framework, Angular v10+)
@@ -25,7 +27,7 @@
 <a href="https://www.linkedin.com/aung-than-soe-3107381a3/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&show_icons=true&theme=radical)
+![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=radical&layout=compact)
 
 <br/>
 
