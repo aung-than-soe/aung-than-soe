@@ -1,4 +1,4 @@
-### Hello, I'm Aung Than Soe, a software developer from Myanmar
+### Hello, I'm Aung Than Soe, a software developer from Myanmar 🤠
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=aung-than-soe&label=Profile%20views&color=0e75b6&style=flat" alt="aung-than-soe" />
