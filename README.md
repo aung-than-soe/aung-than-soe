@@ -12,11 +12,10 @@
 **Social Media:**
 
 [![GitHub](icons/github.png)](https://github.com/aung-than-soe)
-<!-- [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb) -->
 [![Twitter](icons/twitter.png)](https://twitter.com/@AungThanSo3)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/aung-than-soe-3107381a3)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/aung_than_soe_)
-
+<!-- [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb) -->
 
 <h3 color='#fff'>Connect with me: </h3>
 <p align='left'>
