@@ -11,10 +11,10 @@
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/aung-than-soe)
 [![Twitter](icons/twitter.png)](https://twitter.com/@AungThanSo3)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/aung-than-soe-3107381a3)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/aung_than_soe_)
+[![GitHub](icons/github.png)](https://github.com/aung-than-soe)
 
 ![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&exclude_repo=github-readme-stats,aung-than-soe.github.io)
 
