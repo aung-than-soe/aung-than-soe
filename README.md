@@ -16,8 +16,8 @@
 [![Instagram](icons/instagram.png)](https://www.instagram.com/aung_than_soe_)
 [![GitHub](icons/github.png)](https://github.com/aung-than-soe)
 
-![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&exclude_repo=github-readme-stats,aung-than-soe.github.io)
+---
 
-<br/>
-
-![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-than-soe&show_icons=true&theme=dracula)
+![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true&exclude_repo=github-readme-stats,aung-than-soe.github.io)
+---
+![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-than-soe&show_icons=true&theme=tokyonight)
