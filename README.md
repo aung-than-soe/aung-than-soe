@@ -9,7 +9,7 @@
 - ⚡  Currently, improving my skill sets.
 ---
 
-**Social Media:**
+## 🔍 **Contact Me**
 
 [![Twitter](icons/twitter.png)](https://twitter.com/@AungThanSo3)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/aung-than-soe-3107381a3)
@@ -18,6 +18,23 @@
 
 ---
 
-![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true&exclude_repo=github-readme-stats,aung-than-soe.github.io)
+## 🛠  Skills
+        
+[<img src="icons/javascript.png" alt="JavaScript logo" title="JavaScript" height="25" />][skill_anchor]
+&nbsp;
+[<img src="icons/angular.png" alt="Angular logo" title="Angular" height="25" />][skill_anchor]
+&nbsp;
+[<img src="icons/react.png" alt="React logo" title="React" height="25" />][skill_anchor]
+&nbsp;
+[<img src="icons/typescript.png" alt="TypeScript logo" title="TypeScript" height="25" />][skill_anchor]
+&nbsp;
+[<img src="icons/java.png" alt="Java logo" title="Java" height="25" />][skill_anchor]
+---
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aung-than-soe&langs_count=8&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true&exclude_repo=github-readme-stats,aung-than-soe.github.io)
+
 ---
 ![Aung Than Soe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-than-soe&show_icons=true&theme=tokyonight)
+
+[skill_anchor]: #skill_anchor--
+
