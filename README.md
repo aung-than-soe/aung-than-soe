@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for help with job apportunity as a remote developer.
 - 🔭 I worked as Java Web Developer at [StartinPoint Pte Ltd | Singapore & Myanmar](http://www.startinpoint.com)
-- ⚡  Currently, improving my skill sets.
+- ⚡  Currently, improving my skill sets MERN, MEAN stack development.
 ---
 
 ## 🔍 **Contact Me**
