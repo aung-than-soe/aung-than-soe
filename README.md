@@ -5,8 +5,10 @@
 </p>
 
 - 🤔 I’m looking for help with job apportunity as a remote developer.
-- 🔭 I worked as Java Web Developer at [StartinPoint Pte Ltd | Singapore & Myanmar](http://www.startinpoint.com)
-- ⚡  Currently, improving my skill sets MERN, MEAN stack development.
+- 🔭 worked as Junior Java Web Developer at [StartinPoint Pte Ltd | Singapore & Myanmar](http://www.startinpoint.com)
+- 🔭 worked as MERN Stack Developer at [Digit House](https://digithouse.co)
+- 🔭 worked as Senior Java Developer at [SISTIC Singapore](https://www.sistic.com.sg)
+- ⚡  Currently, I'm looking for an opportunity, able to apply immediately.
 ---
 
 ## 🔍 **Contact Me**
